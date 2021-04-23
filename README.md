@@ -1,2 +1,2 @@
 # scum-map
-Basic interactive map based on scumdb.com
+Basic interactive map based on images from scumdb.com
