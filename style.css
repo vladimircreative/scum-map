@@ -1,0 +1,23 @@
+body {
+	background-image: url(https://scumgame.com/static/assets/images/footer/footer-background.jpg);
+	background-size: 160%;
+	background-position: center top; 
+}
+
+#map {  
+	position: absolute;	
+	top: 0;
+	left: 0vw;
+	width: auto;
+  	height: 100%;
+}
+
+.controls {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#clear {
+	color: red;
+}
